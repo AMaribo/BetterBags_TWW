@@ -4,9 +4,12 @@
 ## Notes: A BetterBags Plugin to add categories for common The War Within items.
 ## Author: AMaribo
 ## Version: @project-version@
+
 ## X-Date: @project-date-iso@
 ## X-License: MIT
 ## X-Category: Bags & Inventory
+## X-Curse-Project-ID: 1089496
+
 ## Dependencies: BetterBags
 
 db-list.lua
