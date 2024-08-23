@@ -1,0 +1,13 @@
+## Interface: 110000, 110002
+
+## Title: BetterBags - The War Within
+## Notes: A BetterBags Plugin to add categories for common The War Within items.
+## Author: AMaribo
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## X-License: MIT
+## X-Category: Bags & Inventory
+## Dependencies: BetterBags
+
+db-list.lua
+main.lua
