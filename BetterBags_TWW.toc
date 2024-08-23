@@ -12,5 +12,6 @@
 
 ## Dependencies: BetterBags
 
+boot.lua
 db-list.lua
 main.lua
