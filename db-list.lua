@@ -196,6 +196,13 @@ local db = {
 	["Soaring Meaderbee"] = {
 		[225557] = true, --
 	}, 
+	["Dusty Prospector's Chest"] = {
+		[223878] = true, --
+		[223879] = true, --
+		[223880] = true, --
+		[223881] = true, --
+		[223882] = true, --
+	}, 
 }
 
 addon.db.list = db
