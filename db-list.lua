@@ -154,6 +154,7 @@ local db = {
 		[220776] = true, --
 		[221268] = true, --
 		[221375] = true, --
+		[226148] = true, --
 	}, 
 	["Valorstones"] = {
 		[226257] = true, --
@@ -222,7 +223,25 @@ local db = {
 		[225558] = true, --
 		[225559] = true, --
 		[225560] = true, --
-	}
+	}, 
+	["Weekly Caches"] = {
+		[227792] = true, --
+		[226263] = true, --
+		[226264] = true, --
+		[226273] = true, --
+		[217011] = true, --
+		[217012] = true, --
+		[217013] = true, --
+		[228361] = true, --
+	}, 
+	["Arathi Loremaster"] = {
+		[225203] = true, --
+		[225204] = true, --
+		[225207] = true, --
+		[225212] = true, --
+		[225215] = true, --
+		[225216] = true, --
+	}, 
 }
 
 addon.db.list = db
