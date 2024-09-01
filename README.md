@@ -11,6 +11,7 @@ A BetterBags Plugin to add categories for common The War Within items.
 - Delves
 - Contracts
 - Assembly of the Deep
+- Hallowfall Arathi
 - Weekly Caches
 - Alunira (Mount)
 - Soaring Meaderbee (Mount)

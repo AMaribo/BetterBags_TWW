@@ -340,6 +340,10 @@ local db = {
 		[225215] = true, --
 		[225216] = true, --
 	}, 
+	["Hallowfall Arathi"] = {
+		[206350] = true, --
+		[228741] = true, --
+	}, 
 }
 
 addon.db.list = db
