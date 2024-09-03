@@ -331,6 +331,10 @@ local db = {
 		[217012] = true, --
 		[217013] = true, --
 		[228361] = true, --
+		[224784] = true, --
+		[225571] = true, --
+		[225572] = true, --
+		[225573] = true, --
 	}, 
 	["Arathi Loremaster"] = {
 		[225203] = true, --
