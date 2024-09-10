@@ -283,6 +283,7 @@ local db = {
 		[225906] = true, --
 		[225907] = true, --
 		[225908] = true, --
+		[228582] = true, --
 	}, 
 	["Contracts"] = {
 		[222597] = true, --
@@ -347,6 +348,15 @@ local db = {
 	["Hallowfall Arathi"] = {
 		[206350] = true, --
 		[228741] = true, --
+	}, 
+	["Awakening the Machine"] = {
+		[225767] = true, --
+	}, 
+	["Lionel"] = {
+		[222906] = true, --
+	}, 
+	["Tree's Treasure"] = {
+		[224185] = true, --
 	}, 
 }
 
