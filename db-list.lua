@@ -358,6 +358,11 @@ local db = {
 	["Tree's Treasure"] = {
 		[224185] = true, --
 	}, 
+	["Weaving Supplies"] = {
+		[223901] = true, --
+		[223902] = true, --
+		[223903] = true, --
+	}, 
 }
 
 addon.db.list = db
