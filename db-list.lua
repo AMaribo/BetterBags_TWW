@@ -283,6 +283,7 @@ local db = {
 		[225906] = true, --
 		[225907] = true, --
 		[225908] = true, --
+		[227784] = true, --
 		[228582] = true, --
 	}, 
 	["Contracts"] = {
@@ -357,6 +358,14 @@ local db = {
 	}, 
 	["Tree's Treasure"] = {
 		[224185] = true, --
+	}, 
+	["Worldsoul Memory"] = {
+		[220520] = true, --
+	}, 
+	["Weaving Supplies"] = {
+		[223901] = true, --
+		[223902] = true, --
+		[223903] = true, --
 	}, 
 }
 

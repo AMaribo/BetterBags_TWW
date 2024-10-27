@@ -9,6 +9,7 @@ A BetterBags Plugin to add categories for common The War Within items.
 - Valorstones
 - Resonance Crystals
 - Delves
+- Worldsoul Memory
 - Contracts
 - Assembly of the Deep
 - Awakening the Machine
@@ -21,5 +22,6 @@ A BetterBags Plugin to add categories for common The War Within items.
 - Arathi Loremaster (Treasure)
 - Lionel (Treasure)
 - Tree's Treasure (Treasure)
+- Weaving Supplies (Treasure)
 
 If you notice anything miscategorized, please let me know.
