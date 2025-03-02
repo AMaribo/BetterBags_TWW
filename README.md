@@ -1,10 +1,12 @@
 # BetterBags_TWW
 A BetterBags Plugin to add categories for common The War Within items.
+Updated for 11.1.0.
 
 ## Categories
 - Heirloom Ring
 - Profession Knowledge
 - Airship Schematic
+- G-99 Breakneck
 - Crests
 - Valorstones
 - Resonance Crystals
@@ -15,8 +17,11 @@ A BetterBags Plugin to add categories for common The War Within items.
 - Awakening the Machine
 - Hallowfall Arathi
 - Weekly Caches
+- C.H.E.T.T.
+- S.C.R.A.P.
 - Alunira (Mount)
 - Soaring Meaderbee (Mount)
+- Gorillion (Mount)
 - Dusty Prospector's Chest (Treasure)
 - Illusive Kobyss Lure (Treasure)
 - Arathi Loremaster (Treasure)
