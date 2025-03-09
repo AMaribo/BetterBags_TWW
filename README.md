@@ -1,6 +1,6 @@
 # BetterBags_TWW
 A BetterBags Plugin to add categories for common The War Within items.
-Updated for 11.1.0.
+Updated for 11.1.0 and Season 2.
 
 ## Categories
 - Heirloom Ring
@@ -10,7 +10,7 @@ Updated for 11.1.0.
 - Crests
 - Valorstones
 - Resonance Crystals
-- Delves
+- Delves (including S2 Curios)
 - Worldsoul Memory
 - Contracts
 - Assembly of the Deep
