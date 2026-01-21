@@ -1,4 +1,4 @@
-## Interface: 110200
+## Interface: 110207, 120000
 
 ## Title: BetterBags - The War Within
 ## Notes: A BetterBags Plugin to add categories for common The War Within items.
